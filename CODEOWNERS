@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @DrinkButShark
+/src/backend/database.py      @DrinkButShark
+/src/backend/routers/auth.py  @DrinkButShark
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @DrinkButShark
